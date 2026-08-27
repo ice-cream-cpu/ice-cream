@@ -1,0 +1,7 @@
+# Public repository allowlist. Everything else remains local and untracked.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!LICENSE.txt
+!updates.json
